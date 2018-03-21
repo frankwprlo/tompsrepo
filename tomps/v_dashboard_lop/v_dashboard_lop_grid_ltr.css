@@ -1,0 +1,96 @@
+.css_L1C1_label {}
+.css_L1C2_label {text-align:center;vertical-align:middle;}
+.css_L1C3_label {text-align:center;vertical-align:middle;}
+.css_L1C4_label {text-align:center;vertical-align:middle;}
+.css_L1C5_label {text-align:center;vertical-align:middle;}
+.css_L1C6_label {text-align:center;vertical-align:middle;}
+.css_tp_witel_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_witel_grid_line {vertical-align: top;text-align: right;}
+.css_kickoffmeeting_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_kickoffmeeting_grid_line {background-color:#00CCCC;vertical-align: top;text-align: right;}
+.css_kickoffmeeting_tot_ger {text-align: ;text-align: right;}
+.css_survey_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_survey_grid_line {background-color:#00CCCC;vertical-align: top;text-align: right;}
+.css_survey_tot_ger {text-align: ;text-align: right;}
+.css_rab_apd_kml_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_rab_apd_kml_grid_line {background-color:#00CCCC;vertical-align: top;text-align: right;}
+.css_rab_apd_kml_tot_ger {text-align: ;text-align: right;}
+.css_njki_justifikasi_nodin_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_njki_justifikasi_nodin_grid_line {background-color:#00CCCC;vertical-align: top;text-align: right;}
+.css_njki_justifikasi_nodin_tot_ger {text-align: ;text-align: right;}
+.css_perijinan_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_perijinan_grid_line {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_perijinan_tot_ger {text-align: ;text-align: right;}
+.css_deliverymaterial_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_deliverymaterial_grid_line {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_deliverymaterial_tot_ger {text-align: ;text-align: right;}
+.css_bctr_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_bctr_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_bctr_tot_ger {text-align: ;text-align: right;}
+.css_gelarhdpetanamtiang_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_gelarhdpetanamtiang_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_gelarhdpetanamtiang_tot_ger {text-align: ;text-align: right;}
+.css_gelarkabel_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_gelarkabel_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_gelarkabel_tot_ger {text-align: ;text-align: right;}
+.css_pasangterminalterminasijumperodf_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_pasangterminalterminasijumperodf_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_pasangterminalterminasijumperodf_tot_ger {text-align: ;text-align: right;}
+.css_pasangterminalterminasjumperodc_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_pasangterminalterminasjumperodc_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_pasangterminalterminasjumperodc_tot_ger {text-align: ;text-align: right;}
+.css_pasangterminalodp_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_pasangterminalodp_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_pasangterminalodp_tot_ger {text-align: ;text-align: right;}
+.css_terminasiodp_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_terminasiodp_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_terminasiodp_tot_ger {text-align: ;text-align: right;}
+.css_testcomm_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_testcomm_grid_line {background-color:#99FF66;vertical-align: top;text-align: right;}
+.css_testcomm_tot_ger {text-align: ;text-align: right;}
+.css_ujiterima_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_ujiterima_grid_line {background-color:#66FFFF;vertical-align: top;text-align: right;}
+.css_ujiterima_tot_ger {text-align: ;text-align: right;}
+.css_bautrekon_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_bautrekon_grid_line {background-color:#66FFFF;vertical-align: top;text-align: right;}
+.css_bautrekon_tot_ger {text-align: ;text-align: right;}
+.css_amandemenbast_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_amandemenbast_grid_line {background-color:#66FFFF;vertical-align: top;text-align: right;}
+.css_amandemenbast_tot_ger {text-align: ;text-align: right;}
+.css_grir_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_grir_grid_line {background-color:#66FFFF;vertical-align: top;text-align: right;}
+.css_grir_tot_ger {text-align: ;text-align: right;}
+.css_newentry_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_newentry_grid_line {background-color:#FFFF99;vertical-align: top;text-align: right;}
+.css_newentry_tot_ger {text-align: ;text-align: right;}
+.css_inprogress_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_inprogress_grid_line {background-color:#FFFF99;vertical-align: top;text-align: right;}
+.css_inprogress_tot_ger {text-align: ;text-align: right;}
+.css_others_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_others_grid_line {background-color:#FFFF99;vertical-align: top;text-align: right;}
+.css_others_tot_ger {text-align: ;text-align: right;}
+.css_complete_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_complete_grid_line {background-color:#FFFF99;vertical-align: top;text-align: right;}
+.css_complete_tot_ger {text-align: ;text-align: right;}
+.css_kickoffmeeting_S_tot_ger {text-align: right;}
+.css_survey_S_tot_ger {text-align: right;}
+.css_rab_apd_kml_S_tot_ger {text-align: right;}
+.css_njki_justifikasi_nodin_S_tot_ger {text-align: right;}
+.css_perijinan_S_tot_ger {text-align: right;}
+.css_deliverymaterial_S_tot_ger {text-align: right;}
+.css_bctr_S_tot_ger {text-align: right;}
+.css_gelarhdpetanamtiang_S_tot_ger {text-align: right;}
+.css_gelarkabel_S_tot_ger {text-align: right;}
+.css_pasangterminalterminasijumperodf_S_tot_ger {text-align: right;}
+.css_pasangterminalterminasjumperodc_S_tot_ger {text-align: right;}
+.css_pasangterminalodp_S_tot_ger {text-align: right;}
+.css_terminasiodp_S_tot_ger {text-align: right;}
+.css_testcomm_S_tot_ger {text-align: right;}
+.css_ujiterima_S_tot_ger {text-align: right;}
+.css_bautrekon_S_tot_ger {text-align: right;}
+.css_amandemenbast_S_tot_ger {text-align: right;}
+.css_grir_S_tot_ger {text-align: right;}
+.css_newentry_S_tot_ger {text-align: right;}
+.css_inprogress_S_tot_ger {text-align: right;}
+.css_others_S_tot_ger {text-align: right;}
+.css_complete_S_tot_ger {text-align: right;}

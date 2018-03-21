@@ -1,0 +1,80 @@
+.css_tp_thn_release_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tp_thn_release_grid_line {background-color:#CCFF99;vertical-align: top;text-align: left;}
+.css_tp_prjtrelease_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_prjtrelease_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_batch_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tp_batch_grid_line {background-color:#CCFF99;vertical-align: top;text-align: left;}
+.css_tp_witel_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_witel_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_datel_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_datel_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_sto_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_sto_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_jenisproject_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_jenisproject_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_lokasi_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tp_lokasi_grid_line {background-color:#CCFF99;vertical-align: top;text-align: left;}
+.css_tp_projectname_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tp_projectname_grid_line {background-color:#CCFF99;vertical-align: top;text-align: left;}
+.css_tp_planstart_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_tp_planstart_grid_line {background-color:#CCFF99;vertical-align: top;text-align: center;}
+.css_tp_planfinish_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_tp_planfinish_grid_line {background-color:#CCFF99;vertical-align: top;text-align: center;}
+.css_tp_odp_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_odp_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_nilai_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_nilai_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_tp_rab_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_rab_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_remainsnew_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_remainsnew_grid_line {background-color:#CCFF99;text-align: center;}
+.css_tp_status_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_status_grid_line {background-color:#CCFF99;vertical-align: top;text-align: right;}
+.css_kickoff_meeting_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_kickoff_meeting_grid_line {vertical-align: top;text-align: center;}
+.css_survey_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_survey_grid_line {vertical-align: top;text-align: center;}
+.css_rab_apd_kml_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_rab_apd_kml_grid_line {vertical-align: top;text-align: center;}
+.css_njki_justifikasi_nodin_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_njki_justifikasi_nodin_grid_line {vertical-align: top;text-align: center;}
+.css_perijinan_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_perijinan_grid_line {vertical-align: top;text-align: center;}
+.css_delivery_material_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_delivery_material_grid_line {vertical-align: top;text-align: center;}
+.css_tcbr_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_tcbr_grid_line {vertical-align: top;text-align: center;}
+.css_hdpe_tanam_tiang_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_hdpe_tanam_tiang_grid_line {vertical-align: top;text-align: center;}
+.css_gelar_kabel_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_gelar_kabel_grid_line {vertical-align: top;text-align: center;}
+.css_pasang_terminal_odf_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_pasang_terminal_odf_grid_line {vertical-align: top;text-align: center;}
+.css_pasang_terminal_odc_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_pasang_terminal_odc_grid_line {vertical-align: top;text-align: center;}
+.css_pasang_terminal_odp_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_pasang_terminal_odp_grid_line {vertical-align: top;text-align: center;}
+.css_terminasi_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_terminasi_grid_line {vertical-align: top;text-align: center;}
+.css_test_comm_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_test_comm_grid_line {vertical-align: top;text-align: center;}
+.css_uji_terima_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_uji_terima_grid_line {vertical-align: top;text-align: center;}
+.css_rekon_amandemen_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_rekon_amandemen_grid_line {vertical-align: top;text-align: center;}
+.css_baut_bast_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_baut_bast_grid_line {vertical-align: top;text-align: center;}
+.css_gr_ir_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_gr_ir_grid_line {vertical-align: top;text-align: center;}
+.css_tp_id_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_id_grid_line {vertical-align: top;text-align: right;}
+.css_tp_actualstart_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_tp_actualstart_grid_line {vertical-align: top;text-align: center;}
+.css_tp_actualfinish_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_tp_actualfinish_grid_line {vertical-align: top;text-align: center;}
+.css_tp_templateproject_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_templateproject_grid_line {vertical-align: top;text-align: right;}
+.css_tp_targetwaktu_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_targetwaktu_grid_line {vertical-align: top;text-align: right;}
+.css_tp_jmldistribusi_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_tp_jmldistribusi_grid_line {vertical-align: top;text-align: right;}
