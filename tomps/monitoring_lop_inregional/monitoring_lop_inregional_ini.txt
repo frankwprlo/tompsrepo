@@ -1,7 +1,0 @@
-index.php
-projectamo
-monitoring_lop_inregional
-SIM
-cons
-monitoring_lop_inregional
-LigMd5

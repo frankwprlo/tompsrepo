@@ -1,7 +1,0 @@
-index.php
-projectamo
-slideshow
-SIM
-blank
-slideshow
-LigMd5

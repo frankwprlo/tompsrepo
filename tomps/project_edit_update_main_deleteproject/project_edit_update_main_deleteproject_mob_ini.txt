@@ -1,7 +1,0 @@
-project_edit_update_main_deleteproject_mob.php
-projectamo
-project_edit_update_main_deleteproject_mob
-SIM
-contr
-project_edit_update_main_deleteproject
-LigMd5

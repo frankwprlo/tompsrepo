@@ -1,7 +1,0 @@
-index.php
-projectamo
-control_odp
-SIM
-contr
-control_odp
-LigMd5

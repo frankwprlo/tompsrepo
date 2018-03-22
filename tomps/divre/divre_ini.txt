@@ -1,7 +1,0 @@
-index.php
-projectamo
-divre
-SIM
-form
-divre
-LigMd5

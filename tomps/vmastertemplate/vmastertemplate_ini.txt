@@ -1,7 +1,0 @@
-index.php
-projectamo
-vmastertemplate
-SIM
-cons
-vmastertemplate
-LigMd5

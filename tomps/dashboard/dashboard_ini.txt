@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard
-SIM
-container
-dashboard
-LigMd5

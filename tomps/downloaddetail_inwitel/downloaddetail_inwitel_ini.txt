@@ -1,7 +1,0 @@
-index.php
-projectamo
-downloaddetail_inwitel
-SIM
-cons
-downloaddetail_inwitel
-LigMd5

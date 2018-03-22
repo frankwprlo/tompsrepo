@@ -1,7 +1,0 @@
-index.php
-projectamo
-control_update_bugtahapanclose
-SIM
-contr
-control_update_bugtahapanclose
-LigMd5

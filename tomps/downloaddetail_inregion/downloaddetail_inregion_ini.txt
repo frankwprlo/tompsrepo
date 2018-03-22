@@ -1,7 +1,0 @@
-index.php
-projectamo
-downloaddetail_inregion
-SIM
-cons
-downloaddetail_inregion
-LigMd5

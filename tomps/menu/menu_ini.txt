@@ -1,7 +1,0 @@
-index.php
-projectamo
-menu
-SIM
-
-menu
-LigMd5

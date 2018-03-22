@@ -1,7 +1,0 @@
-index.php
-projectamo
-project_edit_update_main_applink
-SIM
-form
-project_edit_update_main_applink
-LigMd5

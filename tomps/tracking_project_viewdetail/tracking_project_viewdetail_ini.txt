@@ -1,7 +1,0 @@
-index.php
-projectamo
-tracking_project_viewdetail
-SIM
-form
-tracking_project_viewdetail
-LigMd5

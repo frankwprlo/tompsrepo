@@ -1,7 +1,0 @@
-index.php
-projectamo
-timeplan_tahapan_new
-SIM
-cons
-timeplan_tahapan_new
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-projectamo
-app_grid_sec_apps
-NAO
-cons
-app_grid_sec_apps
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-projectamo
-tabs_lokasi
-SIM
-
-tabs_lokasi
-LigMd5

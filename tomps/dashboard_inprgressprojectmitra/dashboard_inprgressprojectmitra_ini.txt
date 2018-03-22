@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard_inprgressprojectmitra
-SIM
-cons
-dashboard_inprgressprojectmitra
-LigMd5

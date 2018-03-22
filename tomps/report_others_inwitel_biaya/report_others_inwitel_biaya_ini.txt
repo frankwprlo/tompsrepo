@@ -1,7 +1,0 @@
-index.php
-projectamo
-report_others_inwitel_biaya
-SIM
-cons
-report_others_inwitel_biaya
-LigMd5

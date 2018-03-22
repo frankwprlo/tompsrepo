@@ -1,7 +1,0 @@
-index.php
-projectamo
-report_resume_project_othersview
-SIM
-cons
-report_resume_project_othersview
-LigMd5

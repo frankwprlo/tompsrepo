@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard_alarm
-SIM
-cons
-dashboard_alarm
-LigMd5

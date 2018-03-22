@@ -1,7 +1,0 @@
-index.php
-projectamo
-timeplanrpoject_detail_new
-SIM
-cons
-timeplanrpoject_detail_new
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-projectamo
-datel
-SIM
-form
-datel
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-projectamo
-form_statusproject
-SIM
-form
-form_statusproject
-LigMd5

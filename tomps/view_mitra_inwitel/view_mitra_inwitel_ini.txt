@@ -1,7 +1,0 @@
-index.php
-projectamo
-view_mitra_inwitel
-SIM
-cons
-view_mitra_inwitel
-LigMd5

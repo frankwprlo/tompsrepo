@@ -1,7 +1,0 @@
-index.php
-projectamo
-form_add_mitra
-SIM
-form
-form_add_mitra
-LigMd5

@@ -1,7 +1,0 @@
-app_Login_mob.php
-projectamo
-app_Login_mob
-NAO
-contr
-app_Login
-LigMd5

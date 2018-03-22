@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard_curve_s
-SIM
-container
-dashboard_curve_s
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-projectamo
-tahapan
-SIM
-form
-tahapan
-LigMd5

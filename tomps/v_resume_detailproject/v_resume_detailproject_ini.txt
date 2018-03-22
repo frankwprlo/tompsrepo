@@ -1,7 +1,0 @@
-index.php
-projectamo
-v_resume_detailproject
-SIM
-cons
-v_resume_detailproject
-LigMd5

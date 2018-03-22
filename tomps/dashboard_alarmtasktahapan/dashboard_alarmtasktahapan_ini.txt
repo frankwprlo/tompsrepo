@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard_alarmtasktahapan
-SIM
-cons
-dashboard_alarmtasktahapan
-LigMd5

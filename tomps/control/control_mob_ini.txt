@@ -1,7 +1,0 @@
-control_mob.php
-projectamo
-control_mob
-SIM
-contr
-control
-LigMd5

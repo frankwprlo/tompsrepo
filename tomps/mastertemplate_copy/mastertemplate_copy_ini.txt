@@ -1,7 +1,0 @@
-index.php
-projectamo
-mastertemplate_copy
-SIM
-form
-mastertemplate_copy
-LigMd5

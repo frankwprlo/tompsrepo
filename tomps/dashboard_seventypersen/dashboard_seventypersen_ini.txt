@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard_seventypersen
-SIM
-cons
-dashboard_seventypersen
-LigMd5

@@ -1,7 +1,0 @@
-index.php
-projectamo
-f_tahun
-SIM
-form
-f_tahun
-LigMd5

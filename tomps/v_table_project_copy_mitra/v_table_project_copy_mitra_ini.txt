@@ -1,7 +1,0 @@
-index.php
-projectamo
-v_table_project_copy_mitra
-SIM
-cons
-v_table_project_copy_mitra
-LigMd5

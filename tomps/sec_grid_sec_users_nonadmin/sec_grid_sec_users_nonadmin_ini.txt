@@ -1,7 +1,0 @@
-index.php
-projectamo
-sec_grid_sec_users_nonadmin
-SIM
-cons
-sec_grid_sec_users_nonadmin
-LigMd5

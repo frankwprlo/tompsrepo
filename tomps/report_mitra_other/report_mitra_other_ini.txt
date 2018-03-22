@@ -1,7 +1,0 @@
-index.php
-projectamo
-report_mitra_other
-SIM
-cons
-report_mitra_other
-LigMd5

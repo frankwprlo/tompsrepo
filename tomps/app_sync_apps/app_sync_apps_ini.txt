@@ -1,7 +1,0 @@
-index.php
-projectamo
-app_sync_apps
-SIM
-contr
-app_sync_apps
-LigMd5

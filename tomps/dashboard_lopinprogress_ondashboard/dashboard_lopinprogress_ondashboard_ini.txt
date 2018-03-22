@@ -1,7 +1,0 @@
-index.php
-projectamo
-dashboard_lopinprogress_ondashboard
-NAO
-cons
-dashboard_lopinprogress_ondashboard
-LigMd5

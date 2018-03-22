@@ -1,7 +1,0 @@
-index.php
-projectamo
-form_master_odp
-SIM
-form
-form_master_odp
-LigMd5
